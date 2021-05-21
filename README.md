@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kogenbrown
+- 👀 I’m interested in machine learning and artificial intelligence
+- 🌱 I’m currently learning high school computer science
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me
+        -E-mail: kogenbrown@gmail.com
